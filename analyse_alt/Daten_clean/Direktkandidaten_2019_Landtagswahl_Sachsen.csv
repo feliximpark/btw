@@ -1,0 +1,440 @@
+﻿Wahlkreis;Partei;Kandidat
+1;CDU;Heidan, Frank
+1;DIE LINKE;Schwarz, Maik
+1;SPD;Pfeil-Zabel, Juliane
+1;AfD;Schaufel, Dietmar Frank
+1;GRÜNE;Liebscher, Gerhard
+1;FDP;Gerbeth, Sven
+1;FREIE WÄHLER;van Heiden, Daniel
+2;CDU;Heinz, Andreas
+2;DIE LINKE;Pfau, Janina
+2;SPD;Stade, Gertrud
+2;AfD;Lupart, Ulrich Willi
+2;GRÜNE;Przisambor, Danny
+2;FDP;Schwabe, Christof
+3;CDU;Voigt, Sören
+3;DIE LINKE;Grünler, Kai
+3;SPD;Wenzel, Silvia
+3;AfD;Hauswald, Lutz
+3;GRÜNE;Ihle, Volkmar
+3;FDP;Ziron, Jeremy
+3;FREIE WÄHLER;Petzold, Jürgen
+3;DSU;Hennebach, Claudia
+4;CDU;Hösl, Stephan
+4;DIE LINKE;Legath, Lars
+4;SPD;Kost, Dr. Siegfried
+4;AfD;Weller, Rico
+4;GRÜNE;Tröger, Manja
+4;FDP;Bretschneider, Andreas
+4;FREIE WÄHLER;Martin, Cathleen
+5;CDU;Nicolaus, Kerstin
+5;DIE LINKE;Koutzky, Klaus Thomas
+5;SPD;Heinzig, Steffi
+5;AfD;Dölitzsch, Daniel
+5;GRÜNE;Korn, Manuel
+5;FDP;Roßberg, Joachim
+5;FREIE WÄHLER;Heinrich, Susan
+6;CDU;Löffler, Jan
+6;DIE LINKE;Döhler, Heiko
+6;SPD;Lasch, Sebastian
+6;AfD;Hahn, Christopher
+6;GRÜNE;Oehler, André
+6;FDP;Köhler, Leon
+7;CDU;Otto, Gerald
+7;DIE LINKE;Hahn, René
+7;SPD;Pecher, Mario
+7;AfD;Keil, Wolfram Klaus
+7;GRÜNE;Laube, Franziska
+7;FDP;Kolev, Dr. Stefan
+7;FREIE WÄHLER;Drechsel, Christiane
+8;CDU;Springer, Ines
+8;DIE LINKE;Schneider, Marlies
+8;SPD;Beyer, Felix
+8;AfD;Seifert, Thomas
+8;GRÜNE;Wetzel, Wolfgang
+8;FDP;Tippelt, Nico
+8;FREIE WÄHLER;Ulbricht, Matthias
+9;CDU;Hippold, Jan
+9;DIE LINKE;Weiß, Alexander
+9;SPD;Raether-Lordieck, Iris
+9;AfD;Frünke, Manfred Stefan
+9;GRÜNE;Dörner, Lars
+9;FDP;Groß, Florian
+10;CDU;Patt, Peter Wilhelm
+10;DIE LINKE;Brünler, Nico
+10;SPD;Kliese, Hanka
+10;AfD;Köhler, Nico
+10;GRÜNE;Zschocke, Volkmar
+10;FDP;Kollinger-Walter, Felicia
+10;FREIE WÄHLER;Heinicke, Michael
+10;Die PARTEI;Kalusche, Siegfried Uwe
+10;Weil ich es kann;Richter, Daniel
+11;CDU;Dierks, Alexander
+11;DIE LINKE;Schaper, Susanne
+11;SPD;Renz, Jürgen
+11;AfD;Dringenberg, Dr. Volker Götz
+11;GRÜNE;Kuhfuß, Kathleen
+11;FDP;Tauscher, Daniel
+11;FREIE WÄHLER;Friese, Jens
+11;PRO CHEMNITZ;Wenzel, Winfried Lothar
+12;CDU;Saborowski, Ines
+12;DIE LINKE;Detzner, Tim
+12;SPD;Vieweg, Jörg
+12;AfD;Wegert, Harald Steffen
+12;GRÜNE;Mäder, Susann
+12;FDP;Bui, Dinh Hai
+12;FREIE WÄHLER;Eberlein, Jens Matthias
+12;PRO CHEMNITZ;Kohlmann, Karl Martin
+13;CDU;Anton, Rico
+13;DIE LINKE;Schöniger, Susann
+13;SPD;Ebert, Susanne
+13;AfD;Dietz, Thomas
+13;GRÜNE;Reinhold, Heiko
+13;FDP;Jakob, Colin
+13;FREIE WÄHLER;Gärtner, Udo
+14;CDU;Dietrich, Eric
+14;DIE LINKE;Gebhardt, Rico
+14;SPD;Müller, René
+14;AfD;Körner, Manfred
+14;GRÜNE;Kaettniß, Uwe Stieven
+14;FDP;Schmidt, Volker
+14;FREIE WÄHLER;Görk, Otto Detlef
+15;CDU;Haude, Falk
+15;DIE LINKE;Zimmer, Holger
+15;SPD;Lang, Simone
+15;AfD;Thumm, Thomas
+15;GRÜNE;Kahl, Ulrike
+15;FDP;Schmuck, Heiko
+15;FREIE WÄHLER;Zimmermann, Jens
+16;CDU;Wähner, Ronny
+16;DIE LINKE;Feiks, Antje
+16;SPD;Wittig, Sören
+16;AfD;Prantl, Thomas
+16;GRÜNE;Haustein, Nino
+16;FDP;Wohlgemuth, Enrico
+16;FREIE WÄHLER;Großmann, Beate
+17;CDU;Markert, Jörg
+17;DIE LINKE;Noack, Kathleen
+17;SPD;Ringeis, Richard
+17;AfD;Gahler, Torsten
+17;GRÜNE;Meister, Kay
+17;FDP;Günther, Tino
+17;FREIE WÄHLER;Schwan, Marc
+18;CDU;Leithoff, Susan
+18;DIE LINKE;Christoph, Toni Dietmar
+18;SPD;Wyschkon, Sylvio
+18;AfD;Penz, Romy
+18;GRÜNE;Walter, Sebastian
+18;FDP;Helfen, Werner
+18;FREIE WÄHLER;Büttner, Klaus
+19;CDU;Ittershagen, Steve
+19;DIE LINKE;Pinka, Dr. Jana
+19;SPD;Geißler, Alexander
+19;AfD;Weigand, Dr. Rolf
+19;GRÜNE;Scholz, Markus
+19;FDP;Karabinski, Benjamin
+19;FREIE WÄHLER;Gustmann, Holger
+20;CDU;Firmenich, Iris
+20;DIE LINKE;Fechner, Eyk
+20;SPD;Mende, Oliver
+20;AfD;Zielinski, Holger
+20;GRÜNE;Sauer, Renate
+20;FDP;Hartewig, Philipp
+20;FREIE WÄHLER;Walter-Bretschneider, Rico
+21;CDU;Dr. Lehle, Rudolf
+21;DIE LINKE;Tändler-Walenta, Marika
+21;SPD;Homann, Henning
+21;AfD;Kuppi, Lars
+21;GRÜNE;Anderfuhren, Maria-Christin
+21;FDP;Cyrnik, Constanze
+21;FREIE WÄHLER;Weißflog, Sven
+22;CDU;Schmidt, Thomas
+22;DIE LINKE;Sobolewski, Robert
+22;SPD;Sarfert, Steve
+22;AfD;Wesemann, Christian
+22;GRÜNE;Günther, Wolfram
+22;FDP;Becker, Miro
+22;FREIE WÄHLER;Stein, Dr. Mario
+23;CDU;von Breitenbuch, Georg-Ludwig
+23;DIE LINKE;Stange, Enrico
+23;SPD;Urban, Oliver
+23;AfD;May, Frank
+23;GRÜNE;Lippold, Dr. Gerd
+23;FDP;Görnitz, Stefan
+23;FREIE WÄHLER;Noack, Falk
+24;CDU;Fritzsche, Oliver
+24;DIE LINKE;Jalaß, René
+24;SPD;Köpping, Petra
+24;AfD;Gärtner, Elke
+24;GRÜNE;Penk, Tommy
+24;FDP;Jonas, Anja
+24;FREIE WÄHLER;Oehlert, Heike Ellen
+25;CDU;Kirmes, Svend-Gunnar
+25;DIE LINKE;Köditz, Kerstin
+25;SPD;Runge, Ingo
+25;AfD;Dornau, Jörg
+25;GRÜNE;Engelhardt, André
+25;FDP;Constantin, Matthias
+25;FREIE WÄHLER;Schmiedel, Matthias
+25;Blaue #TeamPetry;von Below, Dorothea Bärbel Ursula
+26;CDU;Ritter, Kay
+26;DIE LINKE;Kretzschmar, Jens
+26;SPD;Kilian, Birgit
+26;AfD;Zaunick, Jens
+26;GRÜNE;Schmidt, Annett
+26;FDP;Drews, Sebastian
+26;FREIE WÄHLER;Dietze, Dieter Andreas
+27;CDU;Pohle, Ronald
+27;DIE LINKE;Fuchs, Angela
+27;SPD;Arpaci, Arnold
+27;AfD;Penndorf, Kerstin
+27;GRÜNE;Fehse-Klinke, Andre
+27;FDP;Gehrhardt, Michael
+27;FREIE WÄHLER;Winkler, Ralf Reinhard
+28;CDU;Albrecht, Karsten
+28;DIE LINKE;Nagel, Juliane
+28;SPD;Menzel, Lars
+28;AfD;Wiesner, Alexander
+28;GRÜNE;Piechotta, Dr. Paula
+28;FDP;Ascherl, Rudolf
+28;FREIE WÄHLER;Bohse, Reinhard
+28;Die PARTEI;Kumbernuß, Thomas
+29;CDU;Nowak, Andreas
+29;DIE LINKE;Bednarsky, Dr. Adam
+29;SPD;Heinke, Waltra
+29;AfD;Böhme, Petra
+29;GRÜNE;Čagalj Sejdi, Petra
+29;FDP;Vosberg, Friedrich
+29;FREIE WÄHLER;Baier, Monika
+29;BüSo;Gründler, Birgitta
+30;CDU;Weickert, Michael
+30;DIE LINKE;Böhme, Marco
+30;SPD;Rudolph-Kokot, Irena
+30;AfD;Pasemann, Falk-Gert
+30;GRÜNE;Maicher, Dr. Claudia
+30;FDP;Münch, Judith
+30;FREIE WÄHLER;Schröder, Carola
+30;Blaue #TeamPetry;Fechner, Frank
+31;CDU;Clemen, Robert
+31;DIE LINKE;Ehms, Beate
+31;SPD;Panter, Dirk
+31;AfD;Kühne, Jörg Steffen
+31;GRÜNE;Melcher, Christin
+31;FDP;Pfüller, Michael
+31;FREIE WÄHLER;Soudah, André
+31;Die PARTEI;Nagy, Michael
+32;CDU;Rost, Wolf-Dietrich
+32;DIE LINKE;Götze, Marco
+32;SPD;Mann, Holger
+32;AfD;Keller, Tobias Martin
+32;GRÜNE;Spenn, Johannes
+32;FDP;Franke, Kristin
+32;FREIE WÄHLER;Weidinger, Thomas
+32;BüSo;Fellauer, Madeleine
+33;CDU;Gasse, Holger
+33;DIE LINKE;Sodann, Franz
+33;SPD;Schmidt, Michael
+33;AfD;Hentschel, Holger
+33;GRÜNE;Gerber, Dr. Daniel
+33;FDP;Kraus, Christof
+33;FREIE WÄHLER;Baier, Robert
+33;Die PARTEI;Gonsior, Julius
+33;BüSo;Scharf, Jürgen
+33;WIR sind LEIPZIGER;Kohl, Ralf Detlef
+34;CDU;Kiesewetter, Jörg
+34;DIE LINKE;Stoye, Christian
+34;SPD;Holke, Martin
+34;AfD;Ulbrich, Roland Walter Hermann
+34;GRÜNE;Schneider, Anna
+34;FDP;Mainz, Detlef Kaspar
+34;FREIE WÄHLER;Corsa, Constantin
+35;CDU;Gemkow, Sebastian
+35;DIE LINKE;Neuhaus-Wartenberg, Luise
+35;SPD;Teuber, Mathias
+35;AfD;Bochmann, René
+35;GRÜNE;Kunze, Enrico
+35;FDP;Schieritz, Stefan
+35;FREIE WÄHLER;Rabe, Birgit
+36;CDU;Merbitz, Bernd
+36;DIE LINKE;Bagusat-Sehrt, Michael
+36;SPD;Winkler, Volkmar
+36;AfD;Petzold, Gudrun
+36;GRÜNE;Scheller, Johanna Barbara
+36;FDP;Waitz, Christoph
+36;FREIE WÄHLER;Wendt, Denise
+37;CDU;Mackenroth, Geert
+37;DIE LINKE;Knebel, Uta
+37;SPD;Drechsler, Amrei
+37;AfD;Hütter, Carsten
+37;GRÜNE;Meier, Katja
+37;FDP;Borner, Sven
+37;FREIE WÄHLER;Wamser, Dieter
+38;CDU;Fischer, Sebastian
+38;DIE LINKE;Richter, Erik Christopher
+38;SPD;Schittko, Katja
+38;AfD;Beger, Mario
+38;GRÜNE;Berndt, Thomas
+38;FDP;Pursche, Berthold
+38;FREIE WÄHLER;Langerfeld, André
+39;CDU;Kuge, Daniela
+39;DIE LINKE;Hellmann, Tilo
+39;SPD;Richter, Frank
+39;AfD;Kirste, Thomas
+39;GRÜNE;Wengenmayr, Martin
+39;FDP;Bahrmann, Martin
+39;FREIE WÄHLER;Reimann-Bernhardt, Dr. Brit
+40;CDU;Rößler, Dr. Matthias
+40;DIE LINKE;Borowitzki, Daniel Falco
+40;SPD;Dulig, Martin
+40;AfD;Hein, René
+40;GRÜNE;Plessing, Dr. Tobias
+40;FDP;Wolf, Alexander
+40;FREIE WÄHLER;Kroemer, Bernhard
+40;BüSo;Born, Thomas
+41;CDU;Hartmann, Christian
+41;DIE LINKE;Buddeberg, Sarah
+41;SPD;Chaimite, Emiliano
+41;AfD;Wilke, Karin
+41;GRÜNE;Lippmann, Valentin
+41;FDP;Günther, Torsten
+41;Die PARTEI;Hinze, Sören
+42;CDU;Piwarz, Christian
+42;DIE LINKE;Fehst, Franziska
+42;SPD;Sturm, Kristin
+42;AfD;Wendt, André
+42;GRÜNE;Mühle, Andrea
+42;FDP;Mogwitz, Andreas
+43;CDU;Flemming, Ingo
+43;DIE LINKE;Holowenko, Anne
+43;SPD;Pallas, Albrecht
+43;AfD;Ladzinski, Thomas
+43;GRÜNE;Mehn, Henriette
+43;FDP;Kunz, Thomas
+43;Die PARTEI;Hencker, Philipp
+44;CDU;Modschiedler, Martin
+44;DIE LINKE;Wirtz, Tilo
+44;SPD;Kreß, Christian
+44;AfD;Jost, Martina
+44;GRÜNE;Herrmann, Dr. Dietrich
+44;FDP;Görnitz, Steve
+44;BüSo;Frömmel, Holger
+45;CDU;Thiele, Gunter
+45;DIE LINKE;Schollbach, André
+45;SPD;Friedel, Sabine
+45;AfD;Keiler, Dr. Joachim
+45;GRÜNE;Löser, Thomas
+45;FDP;Streller, Lydia
+45;Die PARTEI;Brock, Charlotte
+45;BüSo;Gründler, Michael
+46;CDU;Rohwer, Lars
+46;DIE LINKE;Kunkel, Jenny
+46;SPD;Koch, Sophie
+46;AfD;Harlaß, Andreas
+46;GRÜNE;Hammecke, Lucie
+46;FDP;Hase, Holger
+47;CDU;Klepsch, Barbara
+47;DIE LINKE;Gensichen, Uta
+47;SPD;Drews, Vincent
+47;AfD;Zickler, Hans-Jürgen
+47;GRÜNE;Krause, Susanne
+47;FDP;Schubert, Stefan
+47;Die PARTEI;Küttner, Robert
+47;BüSo;Heider, Boris
+48;CDU;Wöller, Prof. Dr. Roland
+48;DIE LINKE;Meiwald, Uta-Verena
+48;SPD;Forberg, Daniela
+48;AfD;Mayer, Norbert Otto
+48;GRÜNE;Kummer, Ines
+48;FDP;Brandau, Lothar
+48;FREIE WÄHLER;Hofmann, Andreas
+48;V-Partei³;Hanke, Martina
+49;CDU;Dombois, Andrea
+49;DIE LINKE;Wolf, Steffen
+49;SPD;Neukirch, Dagmar
+49;AfD;Barth, André
+49;GRÜNE;Weiner, Holger
+49;FDP;Weinholtz, Peter
+49;FREIE WÄHLER;Kirsten, Thomas
+50;CDU;Wehner, Oliver
+50;DIE LINKE;Richter, Lutz
+50;SPD;Wätzig, Ralf
+50;AfD;Zwerg, Jan-Oliver Aldo
+50;GRÜNE;Kusic, Martin
+50;FDP;Bläsner, Norbert
+50;FREIE WÄHLER;Rohrbeck, Dirk
+50;BüSo;Kamke, Doris
+50;Blaue #TeamPetry;Petry, Dr. Frauke
+51;CDU;Michel, Jens
+51;DIE LINKE;Winkler, Thomas
+51;SPD;Goebel, Peter
+51;AfD;Teichmann, Ivo
+51;GRÜNE;Becker, Irina
+51;FDP;Kowalow, Christian
+51;FREIE WÄHLER;Beleites, Michael
+51;Dr. Müller;Müller, Dr. Johannes
+51;Schaar;Schaar, Eckhard
+52;CDU;Wissel, Patricia
+52;DIE LINKE;Muster, Felix
+52;SPD;Hennersdorf, Anja
+52;AfD;Peschel, Frank
+52;GRÜNE;Jahn-Bresan, Dr. Peter
+52;FDP;Rosenberg, Sirko
+52;FREIE WÄHLER;Senft, Walter Georg
+53;CDU;Mikwauschk, Aloysius
+53;DIE LINKE;Junge, Marion
+53;SPD;Michel, Kathrin
+53;AfD;Schultze, Christian Friedrich
+53;GRÜNE;Kirchhübel, Gerd
+53;FDP;Schniebel, Matthias
+53;FREIE WÄHLER;Hutschalik, Günter Klaus
+54;CDU;Kockert, Mathias
+54;DIE LINKE;Lang, Silvio
+54;SPD;Dubiel-Umlauft, André
+54;AfD;Schreyer, Timo
+54;GRÜNE;Bitzka, Jens
+54;FDP;Zastrow, Holger
+54;FREIE WÄHLER;Linack, Marcel
+55;CDU;Hirche, Frank Uwe
+55;DIE LINKE;Büchner, Ralph
+55;SPD;Stanulla, Kevin
+55;AfD;Schwietzer, Doreen
+55;GRÜNE;Vetter, Tom
+55;FDP;Deutschmann, Ina
+55;FREIE WÄHLER;Nasdala, Dirk
+56;CDU;Schiemann, Marko
+56;DIE LINKE;Kosel, Heiko
+56;SPD;Baumann-Haßke, Harald
+56;AfD;Urban, Jörg
+56;GRÜNE;Kühn, Herbert Siegfried
+56;FDP;Hauschild, Mike
+56;FREIE WÄHLER;Zeidler, Ralf
+56;BüSo;Faku, Christoph Tobias Mzingisi
+57;CDU;Havenstein, Tilmann
+57;DIE LINKE;Mertsching, Antonia
+57;SPD;Baum, Thomas
+57;AfD;Kuhnert, Roberto
+57;GRÜNE;Pilz, Thomas
+57;FDP;Grubert, Sebastian
+57;FREIE WÄHLER;Hänchen, Siegmund
+58;CDU;Kretschmer, Michael
+58;DIE LINKE;Schultze, Mirko
+58;SPD;Thomas, Mike
+58;AfD;Wippel, Sebastian
+58;GRÜNE;Schubert, Franziska
+58;FDP;Waurich, Stefan
+58;FREIE WÄHLER;Hannig, Frank
+58;Die PARTEI;Krause, Michael
+58;BüSo;Jakowitz, Dietmar
+59;CDU;Reuter, Matthias
+59;DIE LINKE;Wobst, Marie
+59;SPD;Kuhne, Thomas
+59;AfD;Kumpf, Mario
+59;GRÜNE;Pfeiffer-Prauß, Sylvio
+59;FDP;Schlagehan, Christine
+59;FREIE WÄHLER;Hertrampf, Rico
+60;CDU;Meyer, Dr. Stephan
+60;DIE LINKE;Neumann, Tuomo
+60;SPD;Herrmann, Andreas
+60;AfD;Siegert, Christian
+60;GRÜNE;Mühlich, Marie
+60;FDP;Grüner, Hans
